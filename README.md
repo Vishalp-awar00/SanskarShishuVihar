@@ -1,5 +1,4 @@
 # SanskarShishuVihar
-This is Sanskar Shishu Vihar Project
 
 ## Project Setup Guide
 
@@ -9,22 +8,21 @@ Depending on complexity, here are common choices:
 
 **Frontend:**
 - React.js (most popular)
-- Next.js (React + server-side rendering)
 - Vue.js or Angular (alternatives)
 
 **Backend:**
+- Java Spring boot (Microservices)
 - Node.js + Express
 - Python (Django / Flask)
 - PHP (Laravel)
 
 **Database:**
-- MongoDB (NoSQL)
+- MongoDB (NoSQL / MongodbCompas)
 - PostgreSQL / MySQL (SQL)
 - Firebase (for simple apps)
 
 ## 2. Plan the Project
-
-- Create wireframes (use Figma or Whimsical)
+- Create wireframes (use Figma or Whimsical) 
 - Write user stories or a feature list
 - Break it into milestones or sprints
 
@@ -70,4 +68,3 @@ Start small:
 - Provide documentation
 - Host training sessions (if needed)
 - Offer ongoing support/updates
-- 
